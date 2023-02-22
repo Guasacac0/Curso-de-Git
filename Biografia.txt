@@ -1,0 +1,4 @@
+Mi nombre es nomar
+tengo 28 a;os
+soy ingeniero, estoy empezando con el curso de git
+me gusta el futbol
