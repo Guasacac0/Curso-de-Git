@@ -1,3 +1,5 @@
 Prueba del curso de git y git_hub de platzi
 
 1.- git init en la carpeta donde se va realizar el proyecto.
+
+2.- 
