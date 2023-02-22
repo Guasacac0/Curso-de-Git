@@ -3,3 +3,5 @@ tengo 27 a;os
 soy ingeniero, estoy empezando con el curso de git
 me gusta el futbol y gimnasio
 me gusta comer mucho
+
+ahora tengo novia y ella es doctora
